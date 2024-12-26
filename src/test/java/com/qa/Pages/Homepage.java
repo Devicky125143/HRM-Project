@@ -25,6 +25,7 @@ public class Homepage  extends Baseclass{
     adminbtn.click();
     Thread.sleep(4000);
     addbtn.click();
+    System.out.println("add the files");
 	/*
 	 * Thread.sleep(3000); Userrole.click();
 	 */
